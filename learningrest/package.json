@@ -1,0 +1,16 @@
+{
+  "name": "restinnode",
+  "version": "1.0.0",
+  "description": "rest api tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
